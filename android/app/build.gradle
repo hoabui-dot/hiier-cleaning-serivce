@@ -81,7 +81,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.hiiercleaningservice"
+    namespace 'hiier.cleaning.service.app'
     defaultConfig {
         applicationId 'hiier.cleaning.service.app'
         minSdkVersion rootProject.ext.minSdkVersion
